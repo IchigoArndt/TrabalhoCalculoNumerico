@@ -1,0 +1,7 @@
+C:\Users\Luiz Arndt\Desktop\TrabalhoCalculoNumerico\TelaInicial\bin\Debug\TelaInicial.exe.config
+C:\Users\Luiz Arndt\Desktop\TrabalhoCalculoNumerico\TelaInicial\bin\Debug\TelaInicial.exe
+C:\Users\Luiz Arndt\Desktop\TrabalhoCalculoNumerico\TelaInicial\bin\Debug\TelaInicial.pdb
+C:\Users\Luiz Arndt\Desktop\TrabalhoCalculoNumerico\TelaInicial\obj\Debug\TelaInicial.csprojAssemblyReference.cache
+C:\Users\Luiz Arndt\Desktop\TrabalhoCalculoNumerico\TelaInicial\obj\Debug\TelaInicial.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Arndt\Desktop\TrabalhoCalculoNumerico\TelaInicial\obj\Debug\TelaInicial.exe
+C:\Users\Luiz Arndt\Desktop\TrabalhoCalculoNumerico\TelaInicial\obj\Debug\TelaInicial.pdb
